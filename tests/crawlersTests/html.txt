@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    
+    <title>Importing data with genfromtxt &mdash; NumPy v1.8 Manual</title>
+    
+    <link rel="stylesheet" type="text/css" href="../_static/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../_static/css/spc-extend.css">
+    <link rel="stylesheet" href="../_static/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" >
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '1.8.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/js/copybutton.js"></script>
+    <link rel="author" title="About these documents" href="../about.html" >
+    <link rel="top" title="NumPy v1.8 Manual" href="../index.html" >
+    <link rel="up" title="I/O with Numpy" href="basics.io.html" >
+    <link rel="next" title="Indexing" href="basics.indexing.html" >
+    <link rel="prev" title="I/O with Numpy" href="basics.io.html" > 
+  </head>
+  <body>
+
+<div class="container">
+  <div class="top-scipy-org-logo-header">
+    <a href="../index.html">
+      <img style="border: 0;" alt="SciPy" src="../_static/img/scipy_org_logo.gif"></a>
+    </div>
+  </div>
+</div>
+
+
+    <div class="container">
+      <div class="main">
+        
+	<div class="row-fluid">
+	  <div class="span12">
+	    <div class="spc-navbar">
+              
+    <ul class="nav nav-pills pull-left">
+        <li class="active"><a href="http://scipy.org/">Scipy.org</a></li>
+        <li class="active"><a href="http://docs.scipy.org/">Docs</a></li>
+        
+        <li class="active"><a href="../index.html">NumPy v1.8 Manual</a></li>
+        

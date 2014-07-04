@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wor",
+				"words"
+			],
+			[
+				"it",
+				"iteritems	function"
+			],
+			[
+				"i",
+				"iteritems	function"
+			],
+			[
+				"word",
+				"wordCounter"
+			],
+			[
+				"c",
+				"__contains__	function"
+			],
+			[
+				"str",
+				"streamThread	statement"
+			],
+			[
+				"list",
+				"listOfWords	statement"
+			],
+			[
+				"lis",
+				"listOfWords	statement"
+			],
+			[
+				"is",
+				"isSet	function"
+			],
+			[
+				"tw",
+				"twitterStream	statement"
+			],
+			[
+				"thread",
+				"thread2	statement"
+			],
+			[
+				"e",
+				"Event	function"
+			],
+			[
+				"start_n",
+				"start_new_thread	function"
+			],
+			[
+				"Stream",
+				"StreamListener	import"
+			],
+			[
+				"Str",
+				"StreamListener	class"
+			],
+			[
+				"Oa",
+				"OAuthHandler	import"
+			],
+			[
+				"ac",
+				"access_token_secret	statement"
+			],
+			[
+				"con",
+				"consumer_secret	statement"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"ge",
+				"GetStreamFilter	function"
+			],
+			[
+				"getstre",
+				"GetStreamSample	function"
+			],
+			[
+				"access_token_key",
+				"access_token_key	statement"
+			],
+			[
+				"acc",
+				"access_token_secret	statement"
+			],
+			[
+				"acce",
+				"access_token	statement"
+			],
+			[
+				"cons",
+				"consumer_secret	param"
+			],
+			[
+				"tr",
+				"True	keyword"
+			],
+			[
+				"dra",
+				"draw	function"
+			],
+			[
+				"ne",
+				"networkx	import"
+			],
+			[
+				"actor",
+				"actorID"
+			],
+			[
+				"P",
+				"pi"
+			],
+			[
+				"uy",
+				"uy0"
+			],
+			[
+				"getP",
+				"getPrenom"
+			],
+			[
+				"created",
+				"created_at"
+			],
+			[
+				"int",
+				"int2d"
+			],
+			[
+				"erreu",
+				"erreurL2"
+			],
+			[
+				"Nb",
+				"Nbnoeuds"
+			],
+			[
+				"navbar",
+				"navbar-responsive-collapse"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"navbar-",
+				"navbar-inner"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tomasyany/Projects/crawler/crawler/spiders/dmoz_spider.py",
+		"/Users/tomasyany/Projects/crawler/crawler/items.py",
+		"/Users/tomasyany/Projects/tito/tweetStorer.py",
+		"/Users/tomasyany/Projects/tito/main.py",
+		"/Users/tomasyany/Projects/crawler/crawler/spiders/crawler_spider.py",
+		"/Users/tomasyany/Projects/tito/tito.sublime-project",
+		"/Users/tomasyany/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tomasyany/Projects/tito/lkn.py",
+		"/Users/tomasyany/Library/Application Support/Sublime Text 2/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/tomasyany/Projects/tito/test.py",
+		"/Users/tomasyany/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tomasyany/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tomasyany/Projects/tito/text.py",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/Stage 3A/PythonPackages/python-twitter/README.md",
+		"/Users/tomasyany/Desktop/algo-0.3/algorithm.inc",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/3A - I/INF553 - Bases de Donnees/Labs/Lab 8/Rscript.php",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/3A - I/INF553 - Bases de Donnees/Homeworks/Project 1/Code/SQL_Queries.sql",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/3A - I/INF553 - Bases de Donnees/Labs/Lab 2/Lab_2.sql",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/3A - I/INF553 - Bases de Donnees/Homeworks/Project 1/data/sqlTest.sql",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/3A - I/INF553 - Bases de Donnees/Labs/Lab 1/Lab_1b.sql",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/3A - I/INF553 - Bases de Donnees/Labs/Lab_2.sql",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/ModalWeb/CodeSource/app/models/User.php",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/3. 3A/3A - I/INF553 - Bases de Données/Labs/Lab_1b.sql",
+		"/Users/tomasyany/Desktop/PSC.html",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/FreeFem/2.2.13.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/FreeFem/3.15.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/FreeFem/3.16.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/3.15.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/2.2.13.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/3.16.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/Test.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/TP_FreeFem/Chaleur.edp",
+		"/Users/tomasyany/Desktop/Tomas/Polytechnique/MAP431/Projet/Ondes.edp",
+		"/Users/tomasyany/Desktop/CarSharing/src/CarSharing.java",
+		"/Users/tomasyany/Desktop/T-00090_COMP_0.msh",
+		"/Applications/MAMP/htdocs/ModalWeb/app/models/functions.php",
+		"/Applications/MAMP/htdocs/ModalWeb/index.php",
+		"/Applications/MAMP/htdocs/ModalWeb/app/models/User.php",
+		"/Applications/MAMP/htdocs/ModalWeb/functions.php",
+		"/Applications/MAMP/htdocs/ModalWeb/toto.php",
+		"/Applications/MAMP/htdocs/ModalWeb/app/models/Group.php",
+		"/Applications/MAMP/htdocs/ModalWeb/app/assets/fonctions.php",
+		"/Applications/MAMP/htdocs/ModalWeb/app/controllers/user_controller.php",
+		"/Users/tomasyany/papaya/config/routes.rb",
+		"/Users/tomasyany/papaya/app/models/user.rb",
+		"/Users/tomasyany/papaya/app/views/home/index.html.haml",
+		"/Users/tomasyany/papaya/app/controllers/posts_controller.rb",
+		"/Users/tomasyany/papaya/app/views/posts/index.html.haml",
+		"/Users/tomasyany/papaya/app/assets/javascripts/endless.js",
+		"/Users/tomasyany/papaya/app/views/layouts/application.html.haml",
+		"/Users/tomasyany/papaya/app/assets/javascripts/application.js",
+		"/Users/tomasyany/papaya/app/models/post.rb",
+		"/Users/tomasyany/papaya/app/controllers/home_controller.rb",
+		"/Users/tomasyany/papaya/db/seeds.rb",
+		"/Users/tomasyany/papaya/config/environments/development.rb",
+		"/Users/tomasyany/papaya/config/environment.rb",
+		"/Users/tomasyany/papaya/Gemfile",
+		"/Users/tomasyany/papaya/app/views/posts/show.html.haml",
+		"/Applications/MAMP/htdocs/TD1/navmenu.php",
+		"/Applications/MAMP/htdocs/TD1/index.php",
+		"/Applications/MAMP/htdocs/TD1/marie.php",
+		"/Users/tomasyany/Desktop/untitled.php",
+		"/Users/tomasyany/papaya/app/views/posts/new.html.haml",
+		"/Users/tomasyany/papaya/app/views/posts/_form.html.haml",
+		"/Users/tomasyany/papaya/app/views/home/_partial.html.haml",
+		"/Users/tomasyany/papaya/app/models/network.rb",
+		"/Users/tomasyany/papaya/db/migrate/20130220005927_create_posts.rb",
+		"/Users/tomasyany/papaya/app/views/home/_post.html.haml",
+		"/Users/tomasyany/papaya/app/views/posts/index.html.erb",
+		"/Users/tomasyany/papaya/app/views/posts/index.js.erb",
+		"/Users/tomasyany/papaya/app/views/posts/asd.haml",
+		"/Users/tomasyany/papaya/app/assets/javascripts/endless_page.js",
+		"/Users/tomasyany/papaya/app/views/posts/index.js.rjs",
+		"/Users/tomasyany/papaya/app/controllers/application_controller.rb",
+		"/Applications/Adobe Dreamweaver CS5/Configuration/CodeHints/Descriptions/php_OTHER.xml",
+		"/Users/tomasyany/Desktop/CarSharing/CarSharing_Mac_WithConsole.sh",
+		"/Users/tomasyany/Desktop/command.sh",
+		"/Users/tomasyany/Desktop/command",
+		"/Users/tomasyany/Desktop/command.terminal",
+		"/Users/tomasyany/papaya/app/views/layouts/_navigation.html.haml",
+		"/Users/tomasyany/papaya/app/controllers/users_controller.rb",
+		"/Users/tomasyany/papaya/features/support/paths.rb",
+		"/Users/tomasyany/papaya/app/assets/stylesheets/application.css.scss",
+		"/Users/tomasyany/papaya/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+		"/Users/tomasyany/papaya/spec/routing/posts_routing_spec.rb",
+		"/Users/tomasyany/papaya/config/database.yml",
+		"/Users/tomasyany/papaya/app/views/posts/untitled.html.haml",
+		"/Users/tomasyany/papaya/.rvmrc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/tomasyany/papaya/app",
+			"/Users/tomasyany/papaya"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"k",
+			"i",
+			"j",
+			"osama",
+			"main",
+			"int(1)",
+			"mail",
+			"'",
+			"temps",
+			"onde",
+			"control-group",
+			"control",
+			"#post",
+			"#post_name",
+			"include_tag",
+			"content_for",
+			"include_tag",
+			"@posts",
+			"new_user",
+			"attr",
+			"sign_in",
+			"new_user",
+			"users_path",
+			"path",
+			"new user path",
+			"meta",
+			"auto",
+			"Send",
+			"path",
+			"responsive",
+			"bootstrap",
+			"root",
+			"database"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"day",
+			"year",
+			"month",
+			"float(4)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 234.0,
+	"status_bar_visible": false
+}
