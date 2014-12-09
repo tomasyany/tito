@@ -90,8 +90,8 @@
 
 # wordDateFile.close()
 
-import matplotlib.pyplot as plt
-import numpy as np
+# import matplotlib.pyplot as plt
+# import numpy as np
 
 
 x = np.linspace(-3,3)
@@ -106,18 +106,4 @@ ax.annotate('tanh(x)', xy=(2, 0.7), xytext=(2.05, 1.1))
 
 plt.grid()
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

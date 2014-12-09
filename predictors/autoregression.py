@@ -2,8 +2,6 @@
 
 # Package import
 import numpy as np
-import math
-import time
 
 class autoregression (object):
 

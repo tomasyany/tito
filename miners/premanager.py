@@ -27,7 +27,7 @@ class premanager (object):
 		if self.domain == None:
 			self.data = np.loadtxt('data/'+self.source+'/'+dataFile+'.txt',delimiter=',')
 		elif self.domain == 'firstWords':
-			self.data = np.loadtxt('data/'+self.source+'/'+domain+'.txt',delimiter=',')
+			self.data = np.loadtxt('data/'+self.source+'/'+self.domain+'.txt',delimiter=',')
 		else:
 			desired= self.searchIndexes(self.domain)
 			with open('data/'+self.source+'/'+dataFile+'.txt', 'r') as fin:
@@ -115,7 +115,7 @@ class premanager (object):
 				newWords = list(set(newWords) & set(corrWords[i]))
 
 		newWords = list(set(newWords))
-		returnData(newWords)
+		self.returnData(newWords)
 
 	# Choose from domain
 	# (We consider a domain to be a list of words previously related by the user)
@@ -129,7 +129,7 @@ class premanager (object):
 			else:
 				newWords.append(self.wordIndex.index(word))
 
-		returnData (newWords)
+		self.returnData (newWords)
 		
 	# Choose 50% of zeros with tolerance h 
 	def chooseZeros (self, h):
@@ -146,7 +146,7 @@ class premanager (object):
 			if alpha >= 0.5 - h and alpha <= 0.5 + h:
 				newWords.append(i)
 
-		returnData (newWords)
+		self.returnData (newWords)
 
 	# Returning the original data from the manager 
 	def returnOriginalData (self):
