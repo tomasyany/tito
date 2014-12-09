@@ -94,16 +94,16 @@
 # import numpy as np
 
 
-x = np.linspace(-3,3)
-ax= plt.subplot(1,1,1)
-ax.set_ylim((-1.5,1.5))
-ax.plot(x,np.tanh(x))
-ax.spines['left'].set_position('center')
-ax.spines['bottom'].set_position('center')
-ax.spines['right'].set_color('none')
-ax.spines['top'].set_color('none')
-ax.annotate('tanh(x)', xy=(2, 0.7), xytext=(2.05, 1.1))      
-
-plt.grid()
-plt.show()
-
+#x = np.linspace(-3,3)
+#ax= plt.subplot(1,1,1)
+#ax.set_ylim((-1.5,1.5))
+#ax.plot(x,np.tanh(x))
+#ax.spines['left'].set_position('center')
+#ax.spines['bottom'].set_position('center')
+#ax.spines['right'].set_color('none')
+#ax.spines['top'].set_color('none')
+#ax.annotate('tanh(x)', xy=(2, 0.7), xytext=(2.05, 1.1))      
+#
+#plt.grid()
+#plt.show()
+#
